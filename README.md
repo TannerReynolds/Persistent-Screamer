@@ -15,3 +15,5 @@
 
 ## But why?
 ### Because I'm bored.
+
+## [Download Link](https://github.com/TannerReynolds/Persistent-Screamer/releases)
