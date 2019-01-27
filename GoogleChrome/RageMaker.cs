@@ -69,5 +69,10 @@ namespace GoogleChrome
         {
 
         }
+
+        private void RageMaker_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
+        }
     }
 }
